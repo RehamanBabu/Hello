@@ -1,3 +1,24 @@
-h1{
-    background-color:red ;
+.c1{
+    background-color:navy;
+    /* border-radius: 10px; */
+     padding: 50px; 
+    /* margin: 30px; */
+    box-shadow: 0 0 80px rgb(22, 22, 22);
+    text-align: center;
+
+}
+.d1{
+    margin:30px ;
+    padding: 20px;
+    box-shadow: 0 0 40px black; 
+}
+.d2{
+    margin:30px ;
+    padding: 20px;
+     box-shadow: 0 0 40px black; 
+}
+.d3{
+    margin:30px ;
+    padding: 20px;
+     box-shadow: 0 0 40px black; 
 }
